@@ -29,3 +29,6 @@ You can install the required Python packages using:
 
 ```bash
 pip install tensorflow keras django numpy matplotlib opencv-python
+
+## Sample Working
+![Model Working GIF](cat_vs_dogs.gif)
