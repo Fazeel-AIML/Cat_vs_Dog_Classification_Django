@@ -20,13 +20,12 @@ This project aims to build a CNN model capable of distinguishing between images 
 - Python 3.x
 - TensorFlow
 - Keras
-- Flask (for the web service)
+- Django (for the web service)
 - NumPy
 - Matplotlib
 - OpenCV (for image processing)
-- Django
 
 You can install the required Python packages using:
 
 ```bash
-pip install tensorflow keras flask numpy matplotlib opencv-python
+pip install tensorflow keras django numpy matplotlib opencv-python
