@@ -25,10 +25,11 @@ This project aims to build a CNN model capable of distinguishing between images 
 - Matplotlib
 - OpenCV (for image processing)
 
+## Sample Working
+![Model Working GIF](cat_vs_dogs.gif)
+
 You can install the required Python packages using:
+
 
 ```bash
 pip install tensorflow keras django numpy matplotlib opencv-python
-
-## Sample Working
-![Model Working GIF](cat_vs_dogs.gif)
